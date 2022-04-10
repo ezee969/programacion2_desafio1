@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/programacion2_desafio1/static/css/main.861954c0.css",
+    "main.js": "/programacion2_desafio1/static/js/main.5a2febbe.js",
+    "static/media/p4.png": "/programacion2_desafio1/static/media/p4.738bcc98b6c85ae7e1b4.png",
+    "static/media/b1.png": "/programacion2_desafio1/static/media/b1.073972691b29cb28456c.png",
+    "static/media/p3.png": "/programacion2_desafio1/static/media/p3.86ec73f89464958394ff.png",
+    "static/media/p1.png": "/programacion2_desafio1/static/media/p1.6ed1c195e79f97ff6456.png",
+    "static/media/b2.png": "/programacion2_desafio1/static/media/b2.c0aff41d3488d8faf7e7.png",
+    "static/media/p2.png": "/programacion2_desafio1/static/media/p2.1c9d3de4d6bbecb7131c.png",
+    "static/media/b3.png": "/programacion2_desafio1/static/media/b3.f4057586d5a8ea5ab4c0.png",
+    "index.html": "/programacion2_desafio1/index.html",
+    "main.861954c0.css.map": "/programacion2_desafio1/static/css/main.861954c0.css.map",
+    "main.5a2febbe.js.map": "/programacion2_desafio1/static/js/main.5a2febbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.861954c0.css",
+    "static/js/main.5a2febbe.js"
+  ]
+}
